@@ -29,6 +29,12 @@ GGoBook은 MSA(Microservices Architecture) 관점을 고려하여 총 3개의 �
 * 🎨 **Frontend Repository**: https://github.com/ggobook-project/ggobook-frontend
 * 🤖 **AI (LLM) Repository**: https://github.com/ggobook-project/ggobook-ai
 
+
+### 📄 공통 문서 및 가이드
+이 프로젝트의 상세 설계와 아키텍처는 아래 문서에서 확인하실 수 있습니다.
+
+[👉 **전체 프로젝트 완료 보고서 (PDF) 보기**](./웹툰·웹소설%20통합AI%20플랫폼(GGoBook).pdf)
+
 ---
 
 ### 👨‍💻 팀원 소개 (Untitled)
