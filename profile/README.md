@@ -31,7 +31,7 @@ GGoBook은 MSA(Microservices Architecture) 관점을 고려하여 총 3개의 �
 
 ---
 
-### 👨‍💻 팀원 소개 (Team 1조)
+### 👨‍💻 팀원 소개 (Untitled)
 | 포지션 | 이름 | 담당 업무 | Github |
 |:---:|:---:|---|:---:|
 | **팀장** | **김승경** | 프로젝트 총괄, 포트원 결제, 작품/회차 관리, 평행우주 외전, 꼬북이 챗봇, AWS S3 및 배포 | https://github.com/iamsugu0106 |
