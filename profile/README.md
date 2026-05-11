@@ -110,15 +110,22 @@ GGoBook은 MSA(Microservices Architecture) 관점을 고려하여 총 3개의 �
 | :---: | :---: |
 | [![시연 영상 1](https://img.youtube.com/vi/aoGZK8Dv_Wc/maxresdefault.jpg)](https://youtu.be/aoGZK8Dv_Wc) | [![시연 영상 2](https://img.youtube.com/vi/c-ex_8DJNUA/maxresdefault.jpg)](https://youtu.be/c-ex_8DJNUA) |
 | 파도 배경 랜딩 화면 및<br>Gemini API 기반 맞춤형 챗봇 | OAuth2 소셜 로그인 및<br>안전한 일반 회원가입 프로세스 |
-| **03. 마이페이지 & 작품 등록** | **04. 포인트 결제 시스템** |
+
+| 03. 마이페이지 & 작품 등록 | 04. 포인트 결제 시스템 |
+| :---: | :---: |
 | [![시연 영상 3](https://img.youtube.com/vi/FWNMFbMQqkE/maxresdefault.jpg)](https://youtu.be/FWNMFbMQqkE) | [![시연 영상 4](https://img.youtube.com/vi/1O4uTDgLyi8/maxresdefault.jpg)](https://youtu.be/1O4uTDgLyi8) |
 | 사용자 활동 통합 관리 및<br>작가의 작품/회차 업로드 | 포트원 연동을 통한 포인트 충전 및<br>유료 회차 구매 |
-| **05. 웹툰 & 웹소설 뷰어** | **06. 릴레이 소설** |
+
+| 05. 웹툰 & 웹소설 뷰어 | 06. 릴레이 소설 |
+| :---: | :---: |
 | [![시연 영상 5](https://img.youtube.com/vi/66q7e0tLGnI/maxresdefault.jpg)](https://youtu.be/66q7e0tLGnI) | [![시연 영상 6](https://img.youtube.com/vi/SnzyNI7bKQE/maxresdefault.jpg)](https://youtu.be/SnzyNI7bKQE) |
 | 멀티보이스 TTS 오디오 청취 및<br>평행우주 외전 생성 | 여러 작가가 동시에 참여하는<br>협업 창작 시스템 |
-| **07. 관리자 통합 운영** | |
-| [![시연 영상 7](https://img.youtube.com/vi/ZbXTrw2mecg/maxresdefault.jpg)](https://youtu.be/ZbXTrw2mecg) | |
-| 작품 검수, 회원 정지/신고 처리 및<br>AI 블라인드 요약 기능 | |
+
+| 07. 관리자 통합 운영 |
+| :---: |
+| [![시연 영상 7](https://img.youtube.com/vi/ZbXTrw2mecg/maxresdefault.jpg)](https://youtu.be/ZbXTrw2mecg) |
+| 작품 검수, 회원 정지/신고 처리 및<br>AI 블라인드 요약 기능 |
+
 ---
 
 ### 🛠 트러블 슈팅 (Trouble Shooting)
