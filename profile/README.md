@@ -25,19 +25,19 @@
 
 ### 📦 레포지토리 (Repositories)
 GGoBook은 MSA(Microservices Architecture) 관점을 고려하여 총 3개의 레포지토리로 분리하여 관리하고 있습니다.
-* ⚙️ **Backend Repository**: [백엔드 깃허브 링크 삽입](https://github.com/ggobook-project/ggobook-backend)
-* 🎨 **Frontend Repository**: [프론트엔드 깃허브 링크 삽입]https://github.com/ggobook-project/ggobook-frontend
-* 🤖 **AI (LLM) Repository**: [AI 서버 깃허브 링크 삽입]https://github.com/ggobook-project/ggobook-ai
+* ⚙️ **Backend Repository**: https://github.com/ggobook-project/ggobook-backend
+* 🎨 **Frontend Repository**: https://github.com/ggobook-project/ggobook-frontend
+* 🤖 **AI (LLM) Repository**: https://github.com/ggobook-project/ggobook-ai
 
 ---
 
 ### 👨‍💻 팀원 소개 (Team 1조)
 | 포지션 | 이름 | 담당 업무 | Github |
 |:---:|:---:|---|:---:|
-| **팀장** | **김승경** | 프로젝트 총괄, 포트원 결제, 작품/회차 관리, 평행우주 외전, 꼬북이 챗봇, AWS S3 및 배포 | [Github 링크]https://github.com/iamsugu0106 |
-| **팀원** | **강한수** | 관리자 시스템, 작품 심사(SSE 알림), 회원 정지/신고, AI 검수, 릴레이 소설 백엔드 (Redis 분산 락) | [Github 링크]https://github.com/iamsugu0106 |
-| **팀원** | **김재민** | 프론트엔드 아키텍처 및 전체 UI/UX, Typecast TTS API 연동, 마이페이지, 릴레이/로그인 뷰 | [Github 링크]https://github.com/iamsugu0106 |
-| **팀원** | **임성훈** | 일반/소셜(OAuth2) 로그인, 댓글/답글, 평점/찜/좋아요, 마이페이지 백엔드 API 설계 | [Github 링크]https://github.com/sh1575 |
+| **팀장** | **김승경** | 프로젝트 총괄, 포트원 결제, 작품/회차 관리, 평행우주 외전, 꼬북이 챗봇, AWS S3 및 배포 | https://github.com/iamsugu0106 |
+| **팀원** | **강한수** | 관리자 시스템, 작품 심사(SSE 알림), 회원 정지/신고, AI 검수, 릴레이 소설 백엔드 (Redis 분산 락) | https://github.com/iamsugu0106 |
+| **팀원** | **김재민** | 프론트엔드 아키텍처 및 전체 UI/UX, Typecast TTS API 연동, 마이페이지, 릴레이/로그인 뷰 | https://github.com/iamsugu0106 |
+| **팀원** | **임성훈** | 일반/소셜(OAuth2) 로그인, 댓글/답글, 평점/찜/좋아요, 마이페이지 백엔드 API 설계 | https://github.com/sh1575 |
 
 ---
 
