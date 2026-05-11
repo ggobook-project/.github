@@ -32,12 +32,43 @@ GGoBook은 MSA(Microservices Architecture) 관점을 고려하여 총 3개의 �
 ---
 
 ### 👨‍💻 팀원 소개 (Untitled)
-| &nbsp;&nbsp;포지션&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;이름&nbsp;&nbsp;&nbsp; | 담당 업무 | Github |
-|:---:|:---:|---|:---:|
-| **팀장** | **김승경** | 프로젝트 총괄, 포트원 결제, 작품/회차 관리, 평행우주 외전, 꼬북이 챗봇, AWS S3 및 배포 | [@iamsugu0106](https://github.com/iamsugu0106) |
-| **팀원** | **강한수** | 관리자 시스템, 작품 심사(SSE 알림), 회원 정지/신고, AI 검수, 릴레이 소설 백엔드 (Redis 분산 락) | [@dlive838-maker](https://github.com/dlive838-maker) |
-| **팀원** | **김재민** | 프론트엔드 아키텍처 및 전체 UI/UX, Typecast TTS API 연동, 마이페이지, 릴레이/로그인 뷰 | [@woals10006-commits](https://github.com/woals10006-commits) |
-| **팀원** | **임성훈** | 일반/소셜(OAuth2) 로그인, 댓글/답글, 평점/찜/좋아요, 마이페이지 백엔드 API 설계 | [@sh1575](https://github.com/sh1575) |
+
+<table>
+  <thead>
+    <tr>
+      <th width="10%" align="center">포지션</th>
+      <th width="10%" align="center">이름</th>
+      <th width="60%" align="center">담당 업무</th>
+      <th width="20%" align="center">Github</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>팀장</b></td>
+      <td align="center"><b>김승경</b></td>
+      <td>프로젝트 총괄, 포트원 결제, 작품/회차 관리, 평행우주 외전, 꼬북이 챗봇, AWS S3 및 배포</td>
+      <td align="center"><a href="https://github.com/iamsugu0106">@iamsugu0106</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>팀원</b></td>
+      <td align="center"><b>강한수</b></td>
+      <td>관리자 시스템, 작품 심사(SSE 알림), 회원 정지/신고, AI 검수, 릴레이 소설 백엔드 (Redis 분산 락)</td>
+      <td align="center"><a href="https://github.com/dlive838-maker">@dlive838-maker</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>팀원</b></td>
+      <td align="center"><b>김재민</b></td>
+      <td>프론트엔드 아키텍처 및 전체 UI/UX, Typecast TTS API 연동, 마이페이지, 릴레이/로그인 뷰</td>
+      <td align="center"><a href="https://github.com/woals10006-commits">@woals10006-commits</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>팀원</b></td>
+      <td align="center"><b>임성훈</b></td>
+      <td>일반/소셜(OAuth2) 로그인, 댓글/답글, 평점/찜/좋아요, 마이페이지 백엔드 API 설계</td>
+      <td align="center"><a href="https://github.com/sh1575">@sh1575</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
