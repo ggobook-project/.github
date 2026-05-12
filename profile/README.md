@@ -4,6 +4,7 @@
   <p><b>웹툰·웹소설 통합 AI 플랫폼, 함께 읽고 함께 쓰는 이야기</b></p>
   
   <h3>🚀 <a href="https://ggo-book.com">GGoBook 서비스 바로가기 (Live Demo)</a> 🚀</h3>
+  <p><sup>(새 탭에서 열려면 <b>Ctrl + 클릭</b> 또는 <b>Cmd + 클릭</b> 해주세요)</sup></p>
   <br />
 </div>
 
