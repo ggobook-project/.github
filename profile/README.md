@@ -2,7 +2,11 @@
   <br />
   <h2>🐢 GGoBook (꼬북) 📖</h2>
   <p><b>웹툰·웹소설 통합 AI 플랫폼, 함께 읽고 함께 쓰는 이야기</b></p>
-  <br />
+  
+  <a href="https://[실제_도메인_주소]">
+    <img src="https://img.shields.io/badge/🌐_Website_Live-GGoBook-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GGoBook 웹사이트 바로가기">
+  </a>
+  <br /><br />
 </div>
 
 <div align="center">
