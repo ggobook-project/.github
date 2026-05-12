@@ -3,7 +3,7 @@
   <h2>🐢 GGoBook (꼬북) 📖</h2>
   <p><b>웹툰·웹소설 통합 AI 플랫폼, 함께 읽고 함께 쓰는 이야기</b></p>
   
-  <h3>🚀 <a href="hhttps://ggo-book.com/">GGoBook 서비스 바로가기 (Live Demo)</a> 🚀</h3>
+  <h3>🚀 <a href="https://ggo-book.com">GGoBook 서비스 바로가기 (Live Demo)</a> 🚀</h3>
   <br />
 </div>
 
