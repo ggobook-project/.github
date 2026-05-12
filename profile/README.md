@@ -3,10 +3,8 @@
   <h2>🐢 GGoBook (꼬북) 📖</h2>
   <p><b>웹툰·웹소설 통합 AI 플랫폼, 함께 읽고 함께 쓰는 이야기</b></p>
   
-  <a href="https://[실제_도메인_주소]">
-    <img src="https://img.shields.io/badge/🌐_Website_Live-GGoBook-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GGoBook 웹사이트 바로가기">
-  </a>
-  <br /><br />
+  <h3>🚀 <a href="hhttps://ggo-book.com/">GGoBook 서비스 바로가기 (Live Demo)</a> 🚀</h3>
+  <br />
 </div>
 
 <div align="center">
@@ -29,6 +27,7 @@
 
 ### 📦 레포지토리 (Repositories)
 GGoBook은 MSA(Microservices Architecture) 관점을 고려하여 총 3개의 레포지토리로 분리하여 관리하고 있습니다.
+* 🌐 **Live Website**: https://ggo-book.com/
 * ⚙️ **Backend Repository**: https://github.com/ggobook-project/ggobook-backend
 * 🎨 **Frontend Repository**: https://github.com/ggobook-project/ggobook-frontend
 * 🤖 **AI (LLM) Repository**: https://github.com/ggobook-project/ggobook-ai
